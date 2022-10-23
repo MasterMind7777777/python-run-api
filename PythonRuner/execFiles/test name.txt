@@ -1,0 +1,6 @@
+num1 = 1
+num2 = 2
+num3 = 3
+print("test msg1")
+print("test msg2")
+print(num1)
